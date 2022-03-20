@@ -1,0 +1,15 @@
+                                                 SITE-                  https://www.ee.iitb.ac.in/~belur/ee113/             (idk for how long thiswill be active)
+                                                 
+                                                 
+ #WEEK1
+ 	W1.1: https://youtu.be/pLobnoojRKg (What is control?)
+	W1.2: https://youtu.be/TXyHCZXHM0w (Laplace transform, convolution)
+	W1.3: https://youtu.be/IJ4Uv7SudJc (Convolution and robustness-due-to-feedback)
+	W1.4: Further material on convolution: https://youtu.be/80uvr_tdSI8
+	W1.5: Useful informative/interactive link to understand convolution: http://onmyphd.com/?p=convolution
+	W1.slides1: W1-1-overview-slides (Overview)
+	W1.slides2: W1-2-Laplace-transform-slides (Laplace transform)
+	W1.slides3: Slides for convolution and robustness due to feedback: W1-3-convolution-robustness
+	W1.slides4: Scribbled-notes of 11th Feb 2021 (Thursday) W1-4-Interaction-11-Feb
+	
+	Recommended books: Norman Nise, Control Systems Engineering

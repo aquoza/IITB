@@ -1,0 +1,12 @@
+
+
+		. To complie use s++ -no-pie main.cpp
+		. change bubble movement to parabolic path.
+		. create collision between bullets and bubbles
+		. create 2 new bubbles whenever it there is a collision. Make the bullet and bubble disappear.
+		. create collision between bubble and shooter
+		
+		
+		.  Use bubbles of different sizes
+		. score , time, health counter
+		. make different levels. bubbles must have different colours in different levels.
