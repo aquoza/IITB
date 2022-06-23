@@ -1,0 +1,79 @@
+L14 Multipole Expansion
+-Expansion in r'/r
+-Definition of multipole Moments
+-Dipolemoment
+-POtential and electric Field due to dipole
+
+
+L15 Electric Dipole
+1. Defination of Dipole Moments
+2. Dependance on Origin
+3. Infinitesimal Dipoles Potential and
+4. Dipole in an Electric Field
+
+L16 Magnetostatics
+-Force between teo current elements
+-Force between two current loops
+-bio savarts law
+- divenrgence of magnetic field
+
+L17 Magnetic field
+Curl of magnetic field
+amperes law
+applicatoins of amperes law
+
+L18 Magnetic field
+- Magnetic vector potential
+- boundary conditions
+- multipole expansion
+- potential and field due to magnetic dipol
+
+L19 Dielectrics
+1. Dielectric Response
+2. Polarizability
+3. Polarization Vector
+4. Surface and Volume Bound Charges
+
+L20 Dielectrics
+
+L21 Dielectrics
+1. Energy of Dielectric
+2. Magnetic Materials : a ) Para Magnetic b ) Dia Magnetic
+c ) Ferra Magnetic
+3. Surface and Volume Bound Currents
+
+L22 Magnetic Materials
+Atomic Pictures for
+1. Para Magnetism
+2. Dia Magnetism
+
+L23 
+1. Feromagnetism
+2. Anxiliary Field H
+3. Linear Magnetic Materials
+4. Electromotive Force
+
+L24 
+1. Motional EMF
+2. Faraday's Law of Induction
+3. Induced Electric Field
+4. Mutual Induction
+5. Self Induction
+
+L25 
+1. Induced and Motional EMF
+2. Mutual and Self Inductance
+3. Energy in Circuit with Non - zero Current
+4. Energy in Magnetic Field
+5. Maxwell's Correction to Ampere's Law
+6. Displacement Vector
+
+L26 
+1. Electromagnetic Waves in Vacuum
+2. Poynting Vector
+
+
+
+
+
+
